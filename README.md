@@ -1,8 +1,9 @@
 MinION Mk1C SSH Remote Connection & Sequencing Data Downloader
 
 Overview
-This repository was developed and maintained by:
-Coronado-Arrázola Irenice · Janko Montecinos Gael Fabricio
+
+This repository was developed and maintained by: Coronado-Arrázola Irenice · Janko Montecinos Gael Fabricio
+
 This repository provides a standardized Windows PowerShell (.ps1) workflow to establish a secure remote SSH connection to an Oxford Nanopore MinION Mk1C sequencer and download complete sequencing runs from the internal /data directory over a Local Area Network (LAN).
 
 System Requirements
